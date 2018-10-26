@@ -39,5 +39,6 @@ def adding
 
 
   # return the shipping_manifest hash below
+  binding.pry
   return shipping_manifest
 end
